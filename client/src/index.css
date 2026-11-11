@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* Force native select dropdowns to match the dark theme */
+option {
+  background-color: #1f2937; /* Dark gray */
+  color: white;
+}
